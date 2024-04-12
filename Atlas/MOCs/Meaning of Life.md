@@ -9,18 +9,12 @@ up:: [[+ Start Here]]
 
 # Meaning of Life
 
- Meaning *of* life and meaning *in* life.
+Ido Landau writes that philosophers, when writing about the meaning of life, they focus on the *worth, value, or the point* **in** life, or the *reason, or purpose* **of** life.
 
-Meaning of the human species as a whole.
+The former can be said to be goal-oriented while the latter theory-centered. As questions, the former can be written as "what am living *for*?" and the latter, "*why* am I alive?" 
+
+I have decided to label as [[The Point in Life]] and the [[The Purpose of Life]] respectively.
 
 
-Meaning in a single human life.
-[[Susan Wolf]]
-[[Fitting Fulfillment View]]
 
-[[Traces]]
-[[Robert Nozick]]
-
-[[Richard Taylor]]
-[[Fulfillment View]]
 

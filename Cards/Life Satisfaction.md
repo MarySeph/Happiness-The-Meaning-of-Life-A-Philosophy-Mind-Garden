@@ -2,7 +2,7 @@
 
 ---
 
-
+Theory of [[Psychological Happiness]]. States that happiness can be achieved through subjective judgement about one's life. Answers the question, "Are you happy/satisfied with your life?"
 
 ---
 ## Meta

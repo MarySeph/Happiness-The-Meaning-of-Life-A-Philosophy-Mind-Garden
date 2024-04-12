@@ -1,9 +1,13 @@
 # Fitting Fulfillment View
 ---
 
-up:: [[#]]
+up:: [[Happiness and The Meaning of Life]]
 
-Subjective value plus objective value.
+> Subjective value + Objective value = Meaning *in* life.
+
+[[Susan Wolf]]'s theory combines [[Happiness]] and the [[Meaning of Life]]. She claims that for one to be happy (in what sense?), they must engage in things they find valuable on a personal *and* objective level.
+
+%%Value: worth; importance.%%
 
 ---
 ## Meta

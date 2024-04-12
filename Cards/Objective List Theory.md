@@ -2,7 +2,7 @@
 
 ---
 
-
+Theory of [[Well-being]]. States that the things that bring happiness to everyone can be condensed into a itemized list. Unlike the [[Hedonism Theory of Well-Being]] and [[Emotional State]], it does not give concern itself with the agents.
 
 ---
 ## Meta

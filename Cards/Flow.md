@@ -2,7 +2,7 @@
 
 ---
 
-Th
+The [[Autotelic]] experience. The feeling of immersion and a loss of self-perception when doing an activity one that required all of one's focus.
 
 ---
 ## Meta
