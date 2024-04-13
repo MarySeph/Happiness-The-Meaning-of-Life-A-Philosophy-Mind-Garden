@@ -7,11 +7,9 @@ UID: 202403292103
 use whatever metadata is relevant for your project
 %%
 
-up:: [[+ Start Here]]
-
 # + Start Here
 
-This is the homepage for the Spring 2024 course, IDH3600 - Happiness and The Meaning of Life digital garden. An online version of this garden might be available [here]() if the author had time to prepare one outside of Obsidian. Think of it like Wikipedia. There is no traced path. You are free to explore between the pages at your leisure.
+This is the homepage for the Spring 2024 course, IDH3600 - Happiness and The Meaning of Life digital garden. An online version of this garden might be available [here](https://maryseph.github.io/Happiness-The-Meaning-of-Life-A-Philosophy-Mind-Garden/) if the author had time to prepare one outside of Obsidian. Think of it like Wikipedia. There is no traced path. You are free to explore between the pages at your leisure.
 
 To begin exploring the main topics of this course, go to [[Happiness]] or [[Meaning of Life]]. For a discussion on the intersection between the two, go to [[Happiness and The Meaning of Life]]
 
